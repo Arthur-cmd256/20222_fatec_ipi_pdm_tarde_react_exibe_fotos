@@ -3,7 +3,7 @@ import App from './components/App'
 import 'primereact/resources/primereact.min.css'
 import 'primeicons/primeicons.css'
 import 'primeflex/primeflex.css'
-import 'primereact/resources/themes/lara-dark-indigo/theme.css'
+import 'primereact/resources/themes/arya-blue/theme.css'
 
 ReactDOM.render(
     <App />, document.querySelector('#root')

@@ -3,7 +3,7 @@ import { Card } from 'primereact/card';
 const App = () => {
     return(
         <Card>
-            Content
+            Contents
         </Card>
     )
 }
